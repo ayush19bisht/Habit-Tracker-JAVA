@@ -1,5 +1,0 @@
-com\habittracker\model\Habit.class
-com\habittracker\repository\HabitRepository.class
-com\habittracker\HabitTrackerApplication.class
-com\habittracker\service\HabitService.class
-com\habittracker\controller\HabitController.class
